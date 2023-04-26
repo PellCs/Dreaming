@@ -1,0 +1,50 @@
+body {
+  color: white;
+  font-family: Arial, sans-serif;
+}
+body {
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+}
+a {
+  display: block;
+  margin: 10px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.river {
+  width: 1000px;
+  height: auto;
+}
+.river2 {
+  width: 1000px;
+  height: auto;
+}
+
+.moon {
+  width: 1000px;
+  height: auto;
+}
+.ravine {
+  width: 1000px;
+  height: auto;
+}
+.house {
+  width: 1000px;
+  height: auto;
+}
+.waterfall {
+  width: 1000px;
+  height: auto;
+}
+.forest {
+  width: 1000px;
+  height: auto;
+}
